@@ -10,8 +10,8 @@
 ## Example
 * In current script, first character of entire name is fixed with my family name (i.e. SHIN/신/申).
 
-> $ ./hangul-name-generator.pl > naming_result
+    > $ ./hangul-name-generator.pl > naming_result
 
 ## License
 * Follow base Perl License
-[GPLv3](https://github.com/nanishin/hangul-name-generator/blob/master/LICENSE)
+* [GPLv3](https://github.com/nanishin/hangul-name-generator/blob/master/LICENSE)
